@@ -1,6 +1,6 @@
-# Quantum Dev Group
+# Precision Coding
 
-Welcome to the Quantum Dev Group! We are a team passionate about creating innovative projects and exploring the realms of coding. Here, we collaborate on various projects, experiment with new ideas, and contribute to the world of software development.
+Welcome to the Precision Coding Group! We are a team passionate about creating innovative projects and exploring the realms of coding. Here, we collaborate on various projects, experiment with new ideas, and contribute to the world of software development.
 
 ## Projects
 
