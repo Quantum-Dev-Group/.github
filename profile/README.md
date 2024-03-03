@@ -20,6 +20,6 @@ Welcome to the Precision Coding Group! We are a team passionate about creating i
 Feel free to reach out to us if you have any questions, suggestions, or if you're interested in collaborating on projects. You can contact us via email or through our GitHub profiles.
 
 - Preston Whiteman: prestonwhiteman07@gmail.com
-- Callum Lewis: [GitHub Profile](https://github.com/CallumLewisGH)
+- Callum Lewis: callumlewis852@gmail.com
 
 We're so iconic icl 😍
