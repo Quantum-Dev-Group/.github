@@ -10,8 +10,7 @@ Welcome to the Precision Coding Group! We are a team passionate about creating i
 
 ### Dune Recreation
 [![Dune Recreation](https://img.shields.io/badge/-Dune_Recreation-green)](https://github.com/Quantum-Dev-Group/Dune-Recreation)
-- Currently in progress! Join us as we embark on a journey to recreate the fascinating universe of Dune. Experience the rich narrative and intricate world-building in this ambitious project.
-
+- Currently in progress!
 ## Team Members
 - [Preston Whiteman](https://github.com/pestopasta74) - Lead developer and project manager.
 - [Callum Lewis](https://github.com/CallumLewisGH) - Creative thinker and dedicated contributor.
