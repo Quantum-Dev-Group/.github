@@ -4,10 +4,10 @@ Welcome to the Precision Coding Group! We are a team passionate about creating i
 
 ## Projects
 
-### Projectile Motion Simulation [![Projectile Motion Sim](https://img.shields.io/badge/-Projectile_Motion_Sim-blue)](https://github.com/Quantum-Dev-Group/Projectile-Motion-Sim)
+###  [![Projectile Motion Sim](https://img.shields.io/badge/-Projectile_Motion_Sim-blue)](https://github.com/Quantum-Dev-Group/Projectile-Motion-Sim)
 - A Python-based simulation of projectile motion using Pygame. Dive into the world of physics and explore the dynamics of projectiles with this interactive simulation!
 
-### Dune Recreation [![Dune Recreation](https://img.shields.io/badge/-Dune_Recreation-green)](https://github.com/Quantum-Dev-Group/Dune-Recreation)
+### [![Dune Recreation](https://img.shields.io/badge/-Dune_Recreation-green)](https://github.com/Quantum-Dev-Group/Dune-Recreation)
 - Currently in progress!
 ## Team Members
 - [Preston Whiteman](https://github.com/pestopasta74) - Lead developer and project manager.
