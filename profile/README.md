@@ -4,19 +4,22 @@ Welcome to the Precision Coding Group! We are a team passionate about creating i
 
 ## Projects
 
-###  [![Projectile Motion Sim](https://img.shields.io/badge/-Projectile_Motion_Sim-blue)](https://github.com/Quantum-Dev-Group/Projectile-Motion-Sim)
+### [Projectile Motion Simulator](https://github.com/Quantum-Dev-Group/Projectile-Motion-Sim)
 - A Python-based simulation of projectile motion using Pygame. Dive into the world of physics and explore the dynamics of projectiles with this interactive simulation!
 
-### [![Planet Simulation](https://img.shields.io/badge/-Dune_Recreation-green)](https://github.com/Quantum-Dev-Group/Planet-Simulator)
+### [PyGlance](https://github.com/Precision-Coding/PyGlance)  
+- A 3D rendering library for python. Allowing simplistic renderings of 3D models in python.
 - Currently in progress!
 ## Team Members
-- [Preston Whiteman](https://github.com/pestopasta74) - Lead developer and project manager.
-- [Callum Lewis](https://github.com/CallumLewisGH) - Creative thinker and dedicated contributor.
+- [Preston Whiteman](https://github.com/pestopasta74)] - Academic weapon and general chill guy
+- [Callum Lewis](https://github.com/CallumLewisGH) - Weaponised talking autism and lack or hygiene.
+- [Alex Jones](https://github.com/therealjone) - Low level Asbergers and maths genuis
 
 ## Get in Touch
 Feel free to reach out to us if you have any questions, suggestions, or if you're interested in collaborating on projects. You can contact us via email or through our GitHub profiles.
 
 - Preston Whiteman: prestonwhiteman07@gmail.com
 - Callum Lewis: callumlewis852@gmail.com
+- Alex Jones: alexkjones0409@hotmail.com
 
-We're so iconic icl 😍
+Commits and few and farbetween but I see some BANGERS coming out of this  
