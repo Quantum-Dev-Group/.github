@@ -11,7 +11,7 @@ Welcome to the Precision Coding Group! We are a team passionate about creating i
 - A 3D rendering library for python. Allowing simplistic renderings of 3D models in python.
 - Currently in progress!
 ## Team Members
-- [Preston Whiteman](https://github.com/pestopasta74)] - Academic weapon and general chill guy
+- [Preston Whiteman](https://github.com/pestopasta74) - Academic weapon and general chill guy
 - [Callum Lewis](https://github.com/CallumLewisGH) - Weaponised talking autism and lack or hygiene.
 - [Alex Jones](https://github.com/therealjone) - Low level Asbergers and maths genuis
 
